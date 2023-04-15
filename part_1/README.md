@@ -5,3 +5,5 @@
 3. **For courseinfo, main files `App.jsx` & `main.jsx` are in `courseinfo/src`**
 
 4. **For unicafe, main files `App.jsx` & `main.jsx` are in `unicafe/src`**
+
+5. **For unicafe, main files `App.jsx` & `main.jsx` are in `anecdotes/src`**
